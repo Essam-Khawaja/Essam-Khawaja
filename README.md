@@ -48,7 +48,7 @@ Here are some of the projects I've worked on — each includes a write-up, code,
 
 ## 📫 Let's Connect
 
-- 📍 [LinkedIn](www.linkedin.com/in/syed-essam)
+- 📍 [LinkedIn](https://www.linkedin.com/in/syed-essam)
 - 📨 Email: syedessam345@gmail.com
 
 ---
