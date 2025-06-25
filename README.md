@@ -15,18 +15,26 @@ Python • SQL • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn 
 
 Here are some of the projects I've worked on — each includes a write-up, code, and visuals:
 
-### 🔹 [Default Loan Prediction](https://github.com/yourusername/project-repo-1](https://hub.labs.coursera.org:443/connect/sharedyldlbirb?forceRefresh=false&path=%2Fnotebooks%2FLoanDefaultPrediction.ipynb&isLabVersioning=file-prep)
+### 🔹 [Default Loan Prediction](https://hub.labs.coursera.org:443/connect/sharedyldlbirb?forceRefresh=false&path=%2Fnotebooks%2FLoanDefaultPrediction.ipynb&isLabVersioning=file-prep)
 **Participated in a coding challenge where I had to predict the probability of a loan payer defaulting**  
 - Explored and cleaned the data; used Logistic Regression to predict probability
 - Achieved **72% accuracy** on test data.
 - Tools: Python, Pandas, scikit-learn, Seaborn
 
----
-
 ### 🔹 [Udemy Course Notes and Examples](https://github.com/Essam-Khawaja/Data-Science-Udemy)
 **All the notes and code in my learning from the Data Science Bootcamp**
 - Explored multiple machine learning models
 - Made sure to understand the math and reasoning behind the model, not just the code
+
+---
+
+## 🎨 Passion Projects
+
+### 🔹 [Dystopia](https://github.com/Essam-Khawaja/dystopia)
+**Made a game using only Python and PyGame library for a hackathon**
+- Object Oriented Programming
+- Learned heavy backend terms and coded barebones without any engine
+- Learned many coding fundamentals as well as problem-solving
 
 ---
 
@@ -41,7 +49,7 @@ Here are some of the projects I've worked on — each includes a write-up, code,
 ## 📫 Let's Connect
 
 - 📍 [LinkedIn](www.linkedin.com/in/syed-essam)
-- 📨 Email: your.email@example.com
+- 📨 Email: syedessam345@gmail.com
 
 ---
 
