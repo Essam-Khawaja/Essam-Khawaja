@@ -21,6 +21,12 @@ Here are some of the projects I've worked on — each includes a write-up, code,
 - Achieved **72% accuracy** on test data.
 - Tools: Python, Pandas, scikit-learn, Seaborn
 
+### 🔹 [MNIST Classification](https://github.com/Essam-Khawaja/MNIST_Classification)
+**Built a deep neural network to classify handwritten digits from the MNIST dataset**
+- Neural network design, training, and evaluation
+- Visualization of model performance
+- Practical use of deep learning libraries for supervised classification
+
 ### 🔹 [Udemy Course Notes and Examples](https://github.com/Essam-Khawaja/Data-Science-Udemy)
 **All the notes and code in my learning from the Data Science Bootcamp**
 - Explored multiple machine learning models
