@@ -42,6 +42,12 @@ Here are some of the projects I've worked on — each includes a write-up, code,
 - Learned heavy backend terms and coded barebones without any engine
 - Learned many coding fundamentals as well as problem-solving
 
+### 🔹 [Fitness Tracker](https://github.com/Essam-Khawaja/Fitness-Tracker-Java)
+**Made a full GUI fitness tracker using JavaFX with JUnit testing for a university project**
+- Object Oriented Programming
+- Implemented frontend techniques for animation and modern UI
+- Implemented an API-like backend for our frontend to communicate with
+
 ---
 
 ## 📜 Certifications
