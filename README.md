@@ -94,7 +94,7 @@ A web application using Gemini's new API for making a Dungeon Master Assistant; 
 
 ---
 
-[Essam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Essam-Khawaja&show_icons=true&theme=default)
+![Essam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Essam-Khawaja&show_icons=true&theme=default)
 
 
 <!--
