@@ -25,7 +25,7 @@ Python • SQL • Pandas • NumPy • scikit-learn • Matplotlib • Seaborn 
 
 I’m actively participating in Kaggle to sharpen my skills and tackle real-world datasets. You can follow my progress here:
 
-🔗 [Kaggle Competition Repository](https://github.com/Essam-Khawaja/Kaggle-Competitions)  
+### 🔗 [Kaggle Competition Repository](https://github.com/Essam-Khawaja/Kaggle-Competitions)  
 *(Includes notebooks, EDA, model iterations, and performance tracking)*
 [Kaggle Profile](https://www.kaggle.com/essamkhawaja)
 
