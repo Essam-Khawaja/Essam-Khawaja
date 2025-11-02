@@ -7,7 +7,7 @@ I build things. AI-powered applications, Kaggle models, hackathon projects—if 
 ## 🚀 Featured Projects
 
 **[SwiftApply](https://github.com/Essam-Khawaja/swiftapply)** - Chrome Extension using Gemini Nano  
-Cuts job application time from 50 minutes to 3 minutes with AI-powered analysis and cover letter generation. Won Google Chrome Built-in AI Challenge 2025.
+Cuts job application time from 50 minutes to 3 minutes with AI-powered analysis and cover letter generation. Submission for Google Chrome Built-in AI Challenge 2025.
 
 **[Kaggle Competitions](https://github.com/Essam-Khawaja/Kaggle-Competitions)** - ML Competition Portfolio  
 ROC AUC 0.961 on Bank Subscription Prediction. Active participant exploring different ML techniques and datasets.
