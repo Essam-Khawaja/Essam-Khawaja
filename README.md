@@ -1,6 +1,6 @@
 # Hi, I'm Essam 👋
 
-**ML Engineering Student @ University of Calgary**
+**Computer Science Student @ University of Calgary**
 
 I build things. AI-powered applications, Kaggle models, hackathon projects—if it involves code and solves a problem, I'm interested.
 
