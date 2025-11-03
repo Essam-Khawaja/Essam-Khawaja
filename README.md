@@ -33,5 +33,3 @@ Built for ODSC Hackathon using Gemini API. Python backend + Next.js frontend wit
 [LinkedIn](https://www.linkedin.com/in/syed-essam) • [Kaggle](https://www.kaggle.com/essamkhawaja) • syedessam345@gmail.com
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Essam-Khawaja&show_icons=true&theme=dark)
