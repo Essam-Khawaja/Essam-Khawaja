@@ -62,10 +62,9 @@ essam = {
 |---------|-------------|-------|-------|
 | [swiftapply](https://github.com/Essam-Khawaja/swiftapply) | chrome extension that cuts job application time by 94% using gemini nano on-device ai | typescript, react, wxt | google chrome built-in ai challenge 2025 |
 | [silentspeak](https://github.com/Essam-Khawaja/SilentSpeak) | real-time asl translator using computer vision and deep learning | python, tensorflow, next.js | 93.4% accuracy across 37 gestures, 36hr hackathon |
-| [cochrane tourism](https://github.com/Essam-Khawaja/Cochrane-Tourism) | data analysis uncovering $1.5-2.3m revenue opportunity from 136k+ annual tourists | python, geospatial analysis | case competition win |
+| [cochrane tourism]([https://github.com/Essam-Khawaja/Cochrane-Tourism](https://github.com/Essam-Khawaja/UrbanSystems_CaseComp)) | data analysis uncovering $1.5-2.3m revenue opportunity from 136k+ annual tourists | python, geospatial analysis | case competition win |
 | [kaggle competitions](https://github.com/Essam-Khawaja/Kaggle-Competitions) | ml competition portfolio using ensemble methods and feature engineering | catboost, xgboost, python | roc auc 0.961, top 5% |
 | [ai dungeon master](https://github.com/Essam-Khawaja/Masse) | agentic ai for interactive tabletop rpgs with dynamic narrative generation | next.js, fastapi, gemini api | 48hr odsc hackathon |
-| [mnist classification](https://github.com/Essam-Khawaja/MNIST-Classification) | custom deep cnn for handwritten digit recognition | python, tensorflow, keras | 97%+ accuracy |
 | [dystopia](https://github.com/Essam-Khawaja/Dystopia) | 2d platformer with custom physics engine, ai enemies, and a level editor | python, pygame | 2000+ loc, 5+ levels |
 
 ---
