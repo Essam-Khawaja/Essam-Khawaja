@@ -1,0 +1,105 @@
+<svg width="680" height="180" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>pixel art character swinging a sword</title>
+  <desc>an 8-bit tarnished warrior with animated sword swing</desc>
+
+  <defs>
+    <style>
+      @keyframes idle-bob {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-3px); }
+      }
+      @keyframes sword-swing {
+        0%   { transform: rotate(-40deg) translateX(2px); }
+        30%  { transform: rotate(10deg) translateX(4px); }
+        55%  { transform: rotate(55deg) translateX(2px); }
+        75%  { transform: rotate(55deg) translateX(2px); }
+        100% { transform: rotate(-40deg) translateX(2px); }
+      }
+      @keyframes slash-flash {
+        0%, 40%, 100% { opacity: 0; }
+        50%, 65% { opacity: 0.85; }
+      }
+      @keyframes dust-puff {
+        0%, 50% { opacity: 0; transform: scale(0.4) translateX(0px); }
+        60% { opacity: 0.7; transform: scale(1) translateX(6px); }
+        90% { opacity: 0; transform: scale(1.3) translateX(18px); }
+        100% { opacity: 0; }
+      }
+      @keyframes leg-step {
+        0%, 100% { transform: skewX(0deg); }
+        25% { transform: skewX(6deg); }
+        75% { transform: skewX(-6deg); }
+      }
+      .body-group { animation: idle-bob 1.6s ease-in-out infinite; transform-origin: 340px 110px; }
+      .sword-group { animation: sword-swing 1.6s ease-in-out infinite; transform-origin: 352px 95px; }
+      .slash { animation: slash-flash 1.6s ease-in-out infinite; }
+      .dust { animation: dust-puff 1.6s ease-in-out infinite; transform-origin: 395px 140px; }
+      .legs { animation: leg-step 1.6s ease-in-out infinite; transform-origin: 340px 130px; }
+    </style>
+  </defs>
+
+  <rect width="680" height="180" fill="#0D1117"/>
+
+  <g class="dust">
+    <ellipse cx="395" cy="140" rx="14" ry="7" fill="#C8A96E" opacity="0.5"/>
+    <ellipse cx="408" cy="136" rx="8" ry="5" fill="#C8A96E" opacity="0.3"/>
+  </g>
+
+  <g class="slash">
+    <path d="M 368 78 Q 400 105 378 138" stroke="#FFE8A0" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.9"/>
+    <path d="M 372 75 Q 408 108 382 140" stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+  </g>
+
+  <g class="sword-group">
+    <rect x="352" y="58" width="5" height="38" rx="1" fill="#D0D8E8"/>
+    <rect x="353" y="59" width="2" height="36" fill="#F0F4FF" opacity="0.6"/>
+    <rect x="346" y="91" width="17" height="5" rx="1" fill="#8B6914"/>
+    <rect x="346" y="92" width="17" height="2" fill="#C8A060" opacity="0.5"/>
+    <rect x="350" y="96" width="8" height="14" rx="2" fill="#5C3A1E"/>
+    <rect x="351" y="97" width="3" height="12" fill="#7A5030" opacity="0.5"/>
+    <rect x="349" y="109" width="10" height="6" rx="2" fill="#8B6914"/>
+  </g>
+
+  <g class="body-group">
+    <rect x="318" y="103" width="24" height="36" rx="4" fill="#1A1A2E" opacity="0.3"/>
+    <polygon points="320,100 344,100 348,138 316,138" fill="#2C2060"/>
+    <polygon points="320,100 344,100 340,130 322,130" fill="#3A2A80" opacity="0.4"/>
+    <rect x="322" y="95" width="22" height="26" rx="3" fill="#3A3A50"/>
+    <rect x="324" y="97" width="18" height="20" rx="2" fill="#505070"/>
+    <line x1="333" y1="97" x2="333" y2="117" stroke="#404060" stroke-width="1.2"/>
+    <line x1="324" y1="107" x2="342" y2="107" stroke="#404060" stroke-width="1"/>
+    <rect x="318" y="94" width="8" height="8" rx="2" fill="#606080"/>
+    <rect x="340" y="94" width="8" height="8" rx="2" fill="#606080"/>
+    <rect x="323" y="72" width="20" height="20" rx="3" fill="#C8A06E"/>
+    <rect x="321" y="68" width="24" height="14" rx="3" fill="#505070"/>
+    <rect x="323" y="68" width="20" height="10" rx="2" fill="#606080"/>
+    <rect x="324" y="77" width="18" height="4" rx="1" fill="#1A1A2E"/>
+    <rect x="325" y="78" width="16" height="2" rx="0" fill="#3060A0" opacity="0.7"/>
+    <rect x="321" y="71" width="4" height="6" rx="1" fill="#707090"/>
+    <rect x="341" y="71" width="4" height="6" rx="1" fill="#707090"/>
+    <rect x="314" y="97" width="8" height="18" rx="3" fill="#3A3A50"/>
+    <rect x="308" y="99" width="12" height="14" rx="2" fill="#6030A0"/>
+    <rect x="310" y="101" width="8" height="10" rx="1" fill="#8040C0"/>
+    <rect x="313" y="104" width="2" height="4" fill="#C0A0E0"/>
+    <rect x="312" y="105" width="4" height="2" fill="#C0A0E0"/>
+    <rect x="344" y="97" width="8" height="16" rx="3" fill="#3A3A50"/>
+    <g class="legs">
+      <rect x="322" y="121" width="10" height="22" rx="3" fill="#2A2A40"/>
+      <rect x="334" y="121" width="10" height="22" rx="3" fill="#2A2A40"/>
+      <rect x="320" y="137" width="12" height="8" rx="2" fill="#1A1A2E"/>
+      <rect x="332" y="137" width="12" height="8" rx="2" fill="#1A1A2E"/>
+      <rect x="321" y="138" width="5" height="2" rx="1" fill="#3A3A5E"/>
+      <rect x="333" y="138" width="5" height="2" rx="1" fill="#3A3A5E"/>
+    </g>
+  </g>
+
+  <ellipse cx="333" cy="148" rx="28" ry="5" fill="#000" opacity="0.12"/>
+
+  <g class="slash">
+    <rect x="370" y="82" width="4" height="4" fill="#FFE8A0" opacity="0.9"/>
+    <rect x="382" y="100" width="3" height="3" fill="#FFE8A0" opacity="0.7"/>
+    <rect x="376" y="120" width="3" height="3" fill="#FFE8A0" opacity="0.5"/>
+    <rect x="366" y="95" width="2" height="2" fill="white"/>
+    <rect x="388" y="112" width="2" height="2" fill="white"/>
+  </g>
+</svg>
