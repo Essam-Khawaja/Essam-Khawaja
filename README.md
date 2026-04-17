@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- pixel character: save tarnished.svg to your repo root and reference it below -->
-<img src="./tarnished.svg" width="400" alt="pixel art tarnished warrior swinging a sword"/>
+<!-- drop tarnished.svg in your profile repo root -->
+<img src="./tarnished.svg" width="560" alt="pixel art tarnished warrior swinging a sword"/>
 
 <br/>
 
@@ -46,11 +46,11 @@ essam = {
         "comfortable": ["JavaScript", "Java", "R"],
         "learning":    ["Rust", "Go"],
     },
-    "ml_ai":  ["TensorFlow", "PyTorch", "Scikit-learn", "CatBoost", "XGBoost", "Pandas", "NumPy"],
-    "web":    ["Next.js", "React", "Tailwind CSS", "FastAPI", "Node.js"],
-    "tools":  ["Git", "Jupyter", "Power BI", "Docker", "Figma", "WXT"],
-    "building":    ["FinanceGuy (AI finance app)", "Elden Ring portfolio"],
-    "open_to":     ["internships", "hackathons", "cool side projects"],
+    "ml_ai":   ["TensorFlow", "PyTorch", "Scikit-learn", "CatBoost", "XGBoost", "Pandas", "NumPy"],
+    "web":     ["Next.js", "React", "Tailwind CSS", "FastAPI", "Node.js"],
+    "tools":   ["Git", "Jupyter", "Power BI", "Docker", "Figma", "WXT"],
+    "building":  ["FinanceGuy (AI finance app)", "Elden Ring portfolio"],
+    "open_to":   ["internships", "hackathons", "cool side projects"],
 }
 ```
 
@@ -74,13 +74,15 @@ essam = {
 <summary><h2>github stats</h2></summary>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Essam-Khawaja&column=5&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="trophies"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Essam-Khawaja&bg_color=0D1117&title_color=C0A060&color=C0A060&line=C0A060&point=DEDEDE&hide_border=true&custom_title=contribution+graph" alt="activity graph"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Essam-Khawaja&layout=compact&theme=dark&hide_border=true&title_color=C0A060" alt="top languages"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Essam-Khawaja&show_icons=true&theme=dark&hide_border=true&title_color=C0A060&icon_color=C0A060" alt="github stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Essam-Khawaja&bg_color=0D1117&title_color=C0A060&color=C0A060&line=C0A060&point=DEDEDE&hide_border=true&custom_title=contribution+graph" alt="activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Essam-Khawaja&layout=compact&theme=dark&hide_border=true&title_color=C0A060" alt="top languages"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Essam-Khawaja&show_icons=true&theme=dark&hide_border=true&title_color=C0A060&icon_color=C0A060" alt="github stats"/>
+
 </div>
 </details>
 
@@ -114,7 +116,5 @@ essam = {
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Essam-Khawaja&label=profile+views&color=6&icon=5&pretty=true" alt="profile views"/>
-  <br/><br/>
   <sub><i>may your grace guide you, tarnished.</i></sub>
 </div>
